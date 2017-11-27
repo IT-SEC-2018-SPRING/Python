@@ -4,6 +4,8 @@ Welcome to the Python Introduction course on the IT Security education at KEA.
 
 This is an online repository for the curriculum. All slides and materials used will be uploaded on Fronter in your designated class folder. 
 
+## Books used
+
 
 ## Introductory 
 Python is an interpreted language also known as an script language. Python is used on all levels usually referred to as full-stack development. Full stack development is merely a way to say - That it covers all the areas of development, to put it short.
@@ -25,6 +27,9 @@ For this course Python is going to be fantastic for all of you. It will offer a 
 
 
 ## Foundation of Python 3
+The below list will show what the foundation of Python 3 is all about. Of course there are loads of sub topics to the different mentioned.
+
+
 0. Installation of Python and PyCharm
 1. Python 3 basics
 2. Basic Syntax
