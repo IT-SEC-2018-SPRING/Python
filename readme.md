@@ -7,7 +7,7 @@ This is an online repository for the curriculum. All slides and materials used w
 
 ## Introductory 
 
-## Faundation of Python 3
+## Foundation of Python 3
 
 ## Socket programming
 
