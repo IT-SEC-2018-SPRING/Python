@@ -1,4 +1,5 @@
 # Python
+(https://lh3.googleusercontent.com/i3mDiwxhA3hz0idCn8vMWmn30QvyCZlOEna5VQqbInKIcPyhyl4ZUGtvXy_Ex6wauJYS=w300)
 
 Welcome to the Python Introduction course on the IT Security education at KEA.
 
